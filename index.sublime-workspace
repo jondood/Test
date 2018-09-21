@@ -100,25 +100,72 @@
 	"buffers":
 	[
 		{
-			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"utf-8\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n    <title>My Test</title>\n    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/styles.css\">\n</head>\n\n<body>\n\t<div class=\"jumbtron-fluid\">\n\t\t<h1 class=\"display-1 text-center\">Audio Acoustic</h1>\n\t</div>\n\n\t<nav class=\"navbar navbar navbar-expand-sm bg-light navbar-light sticky\" id=\"navbarmainpage\">\n  <a class=\"navbar-brand\" href=\"index.html\"><img class=\"aclogo\" src=\"img/AC-logo.png\"></a>\n  <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#collapsibleNavbar\">\n    <span class=\"navbar-toggler-icon\"></span>\n  </button>\n  <div class=\"collapse navbar-collapse\" id=\"collapsibleNavbar\">\n    <ul class=\"navbar-nav\">\n    \t<div class=\"divider-vertical\"></div>\n\t  <li class=\"nav-item dropdown\">\n        <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\n          Speakers\n        </a>\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\n          <a class=\"dropdown-item\" href=\"speaker1.html\">Speaker1</a>\n          <a class=\"dropdown-item\" href=\"speaker2.html\">Speaker2</a>\n          <a class=\"dropdown-item\" href=\"speaker3.html\">Speaker3</a>\n        </div>\n      </li>\n      <div class=\"divider-vertical\"></div>\n      <li class=\"nav-item\">\n        <a class=\"nav-link\" href=\"headphones.html\">Headphones</a>\n      </li>\n      <div class=\"divider-vertical\"></div>\n      <li class=\"nav-item\">\n        <a class=\"nav-link\" href=\"#\">Amplifiers</a>\n      </li>    \n      <div class=\"divider-vertical\"></div>\n    </ul>\n  </div>  \n</nav>\n\n<div class=\"jumbotron-fluid\">\n\t<hr id=\"jumbotop\">\n\t<div id=\"carouselExampleControls\" class=\"carousel slide\" data-ride=\"carousel\">\n\t  <div class=\"carousel-inner\">\n\t    <div class=\"carousel-item active\">\n\t      <img class=\"d-block w-100\" id=\"exampleimg1\" src=\"img/audioexampleimg.jpg\" alt=\"First slide\">\n\t    </div>\n\t    <div class=\"carousel-item\">\n\t      <img class=\"d-block w-100\" id=\"exampleimg2\" src=\"img/audioexampleimg2.jpg\" alt=\"Second slide\">\n\t    </div>\n\t    <div class=\"carousel-item\">\n\t      <img class=\"d-block w-100\" id=\"exampleimg3\" src=\"img/audioexampleimg3.jpg\" alt=\"Third slide\">\n\t    </div>\n\t  </div>\n\t  <a class=\"carousel-control-prev\" href=\"#carouselExampleControls\" role=\"button\" data-slide=\"prev\">\n\t    <span class=\"carousel-control-prev-icon\" aria-hidden=\"true\"></span>\n\t    <span class=\"sr-only\">Previous</span>\n\t  </a>\n\t  <a class=\"carousel-control-next\" href=\"#carouselExampleControls\" role=\"button\" data-slide=\"next\">\n\t    <span class=\"carousel-control-next-icon\" aria-hidden=\"true\"></span>\n\t    <span class=\"sr-only\">Next</span>\n\t  </a>\n\t</div>\n\t<hr id=\"jumbobottom\">\n</div>\n\n<div class=\"container\" id=\"maintext\">\n\n\t<h2>Lorem Ipsum</h2>\n\t<hr>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac auctor eros, vel posuere quam. Nullam mattis libero non tortor consequat, eu iaculis leo gravida. Quisque leo nulla, efficitur nec risus non, molestie ullamcorper eros. In id suscipit leo, at hendrerit tortor. Curabitur dolor ipsum, elementum nec lorem a, tristique auctor lacus. In molestie enim at purus ullamcorper gravida sed eget lacus. Nam id volutpat arcu. Quisque sed mi diam. Nam vitae arcu vel magna dictum accumsan. Suspendisse sagittis pulvinar metus non porta. Curabitur lectus sem, malesuada et gravida at, dignissim id lectus. Nunc imperdiet velit eget ex pretium faucibus. Ut condimentum, eros non rhoncus tempor, elit nulla placerat dolor, id ullamcorper erat metus posuere ipsum. Donec porta nulla et lacus aliquet placerat. Nam a ultrices purus.</p>\n\t<h2>Sed Congue</h2>\n\t<hr>\n<p>Sed congue magna vitae nulla eleifend molestie. Morbi quis dui lectus. Suspendisse potenti. Pellentesque viverra in nunc ut consectetur. Suspendisse sollicitudin eros enim, et bibendum mauris pulvinar vitae. Mauris at neque porttitor, sollicitudin purus ac, lobortis risus. Praesent et velit tincidunt, efficitur nisi ac, bibendum magna. Fusce quis bibendum leo. Etiam odio orci, accumsan in tortor ut, feugiat blandit nunc. Duis ac nulla in odio iaculis cursus ac in velit. Ut placerat in neque eu aliquam. Integer ut magna nec eros placerat lacinia vitae et dolor. Aenean nec felis ultrices, malesuada ipsum non, lobortis libero. In hac habitasse platea dictumst. Phasellus sit amet est accumsan, molestie nisl id, suscipit est. Quisque in turpis elit.</p>\n\t<h2>Sed Quis</h2>\n\t<hr>\n<p>Sed quis ipsum ut tortor pellentesque gravida blandit vitae nunc. Phasellus placerat sagittis elit a convallis. Pellentesque posuere aliquam nisl sit amet imperdiet. Ut turpis sapien, consectetur id metus sagittis, varius accumsan dui. Aenean diam odio, fringilla quis tellus eu, porttitor ornare tortor. Mauris hendrerit leo porttitor mi pretium cursus. Fusce pulvinar mattis erat, ac bibendum dolor aliquam ac. Aenean lobortis, est ut posuere porttitor, lorem mauris bibendum turpis, quis vulputate elit dolor tempor ipsum. Etiam accumsan dignissim nisl in elementum. Vivamus massa felis, tempor quis sem id, rutrum tristique neque. Vivamus tristique venenatis ex in imperdiet. Suspendisse bibendum tincidunt justo eget varius. Curabitur eu accumsan turpis. Aliquam tristique odio ut ligula condimentum convallis. In eleifend augue id tincidunt rhoncus. Suspendisse eu ante enim.</p>\n\t<h2>Morbi</h2>\n\t<hr>\n<p>Morbi finibus auctor mauris quis posuere. Nulla nulla elit, feugiat ac sem ac, pretium dapibus ex. Proin consectetur porttitor nibh quis venenatis. Donec pulvinar facilisis interdum. Nunc cursus turpis ut elit pellentesque fringilla. Maecenas ut imperdiet lectus, sit amet feugiat nulla. Cras accumsan turpis non enim laoreet, quis venenatis justo imperdiet. Pellentesque semper tincidunt nunc, in maximus libero volutpat nec. Aliquam facilisis leo interdum, ullamcorper ex nec, iaculis tellus. Sed molestie dapibus suscipit.</p>\n\t<h2>Curabitur</h2>\n\t<hr>\n<p>Curabitur turpis sapien, fermentum sit amet vehicula a, eleifend a dui. Nullam placerat libero arcu, at sagittis libero convallis et. Pellentesque aliquam nibh at malesuada condimentum. Donec aliquet in erat at malesuada. Vestibulum mollis fringilla nisi, vitae eleifend diam pretium a. Nam fermentum nunc non dolor tincidunt luctus. Aliquam erat volutpat. Mauris efficitur dictum tortor, vulputate tincidunt augue consectetur hendrerit. Vivamus lectus eros, tempor non leo ut, auctor tempor enim. Cras rutrum tempor velit id aliquam.</p>\n\n</div>\n\n<div class=\"card-footer\">\n\tContact: Blah blah\n</div>\n <!-- Latest compiled and minified CSS\n <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css\"> -->\n<!-- jQuery library -->\n<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js\"></script>\n<!-- Popper JS -->\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js\"></script>\n<!-- Latest compiled JavaScript -->\n<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js\"></script> \n<script src=\"js/jquery.visible.min.js\"></script>\n<script src=\"js/javascript.js\"></script>\n\n</body>\n</html>",
 			"file": "index.html",
-			"file_size": 7421,
-			"file_write_time": 131819990142634556,
 			"settings":
 			{
-				"buffer_size": 7313,
+				"buffer_size": 7638,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "/*\nbody {\n\ttext-align: center;\n\tcolor:lime;\n\tfont-family: \"Gill Sans\", sans-serif;\n\tbackground-color: black;\n}\n.button {\n\tfont-weight: 100px;\n\tfont-size: 10px;\n}\n\nbody {\n\tfont-family: \"Gill Sans\", sans-serif;\n\talign-content: center;\n}\n\n.nav-bar {\n\tmargin: auto;\n\ttext-align: center;\n\tpadding-top: 20px;\n\tlist-style: none;\n\tbackground-color: #b9bec7;\n\theight: 40px;\n}\ntable{ \n\twidth: 10%;\n\ttext-align:center;\n\tborder-collapse: collapse;\n\tborder:1px solid #00F; \n\tfont-size:12px;\n}\n\nth{\n\tbackground:#EEE;\n\twidth:auto; \n\ttext-align:center; \n\tpadding:5px 0;\n\tborder:1px solid #00F;\n}\ntd{\n\twidth:auto; \n\ttext-align:center; \n\tpadding:5px 0;\n\tborder:1px solid #00F;\n}\ntr:nth-child(odd) {\n\tbackground: #EEE;\n}\n\n*/\n\n#exampleimg1, #exampleimg2, #exampleimg3 {\n\theight: 500px;\n}\n\n#maintext {\n\tpadding-top: 30px;\n\tbackground-image: url(../img/whitebackground.jpg);\n\t\n}\n\n.stickyimportant {\n  position: fixed;   \n  top: 0;\t\t\t\n  width: 100%; \t\t\n  z-index: 9;\t\t\n}\n\n.divider-vertical {\nheight: 40px;\nmargin: 0 9px;\nborder-left: 1px solid #d4d2d1;\nborder-right: 1px solid #d4d2d1;\n\n}\n.aclogo {\n\twidth: 50px;\n\theight: 50px;\n}\n\n\n\n/* .bg-light {\n\topacity: 0.5;\n}\n*/",
-			"file": "css/styles.css",
-			"file_size": 1227,
-			"file_write_time": 131819990652745297,
+			"file": "amplifiers.html",
 			"settings":
 			{
-				"buffer_size": 1144,
+				"buffer_size": 2691,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CNAME",
+			"settings":
+			{
+				"buffer_size": 20,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "headphones.html",
+			"settings":
+			{
+				"buffer_size": 2691,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "speakers/speaker3.html",
+			"settings":
+			{
+				"buffer_size": 2699,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "speakers/speaker2.html",
+			"settings":
+			{
+				"buffer_size": 2699,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "speakers/speaker1.html",
+			"settings":
+			{
+				"buffer_size": 2699,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 1195,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -191,14 +238,18 @@
 	[
 		"/C/Users/User/Documents/Test",
 		"/C/Users/User/Documents/Test/css",
-		"/C/Users/User/Documents/Test/js"
+		"/C/Users/User/Documents/Test/js",
+		"/C/Users/User/Documents/Test/speakers"
 	],
 	"file_history":
 	[
+		"/C/Users/User/Documents/Test/speakers/speaker1.html",
+		"/C/Users/User/Documents/Test/speakers/speaker2.html",
+		"/C/Users/User/Documents/Test/speakers/speaker3.html",
 		"/C/Users/User/Documents/Test/amplifiers.html",
+		"/C/Users/User/Documents/Test/headphones.html",
 		"/C/Users/User/Documents/Test/js/javascript.js",
 		"/C/Users/User/Documents/Test/css/styles.css",
-		"/C/Users/User/Documents/Test/speakers/speaker3.html",
 		"/C/Users/User/Documents/Test/js/jquery.visible.min.js",
 		"/C/Users/User/Documents/Test/test.html",
 		"/C/Users/User/Desktop/public_html/functions/jonTrial.php",
@@ -249,7 +300,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -258,15 +309,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7313,
+						"buffer_size": 7638,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2910,
-								2910
+								681,
+								546
 							]
 						],
 						"settings":
@@ -280,31 +331,227 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 918.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "css/styles.css",
+					"file": "amplifiers.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1144,
+						"buffer_size": 2691,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								854,
-								854
+								677,
+								677
 							]
 						],
 						"settings":
 						{
+							"SL.61.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "CNAME",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 20,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "headphones.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								677,
+								677
+							]
+						],
+						"settings":
+						{
+							"SL.62.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "speakers/speaker3.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								679,
+								679
+							]
+						],
+						"settings":
+						{
+							"SL.58.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "speakers/speaker2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								679,
+								679
+							]
+						],
+						"settings":
+						{
+							"SL.59.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "speakers/speaker1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								679,
+								679
+							]
+						],
+						"settings":
+						{
+							"SL.60.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								949,
+								949
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
 							"SL.17.region_keys":
 							[
 							],
@@ -312,10 +559,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 702.0,
+						"translation.y": 810.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
