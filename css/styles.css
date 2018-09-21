@@ -1,0 +1,86 @@
+/*
+body {
+	text-align: center;
+	color:lime;
+	font-family: "Gill Sans", sans-serif;
+	background-color: black;
+}
+.button {
+	font-weight: 100px;
+	font-size: 10px;
+}
+
+body {
+	font-family: "Gill Sans", sans-serif;
+	align-content: center;
+}
+
+.nav-bar {
+	margin: auto;
+	text-align: center;
+	padding-top: 20px;
+	list-style: none;
+	background-color: #b9bec7;
+	height: 40px;
+}
+table{ 
+	width: 10%;
+	text-align:center;
+	border-collapse: collapse;
+	border:1px solid #00F; 
+	font-size:12px;
+}
+
+th{
+	background:#EEE;
+	width:auto; 
+	text-align:center; 
+	padding:5px 0;
+	border:1px solid #00F;
+}
+td{
+	width:auto; 
+	text-align:center; 
+	padding:5px 0;
+	border:1px solid #00F;
+}
+tr:nth-child(odd) {
+	background: #EEE;
+}
+
+*/
+
+#exampleimg1, #exampleimg2, #exampleimg3 {
+	height: 500px;
+}
+
+#maintext {
+	padding-top: 30px;
+	background-image: url(../img/whitebackground.jpg);
+}
+
+.stickyimportant {
+  position: fixed;   
+  top: 0;			
+  width: 100%; 		
+  z-index: 9;		
+}
+
+.divider-vertical {
+height: 40px;
+margin: 0 9px;
+border-left: 1px solid #d4d2d1;
+border-right: 1px solid #d4d2d1;
+
+}
+.aclogo {
+	width: 50px;
+	height: 50px;
+}
+
+
+
+/* .bg-light {
+	opacity: 0.5;
+}
+*/
