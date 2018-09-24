@@ -60,7 +60,7 @@ tr:nth-child(odd) {
 	
 }
 
-.stickyimportant {
+.sticky {
   position: fixed;   
   top: 0;			
   width: 100%; 		
