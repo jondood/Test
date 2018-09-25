@@ -103,70 +103,25 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7638,
+				"buffer_size": 3764,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "amplifiers.html",
+			"file": "audioacoustics/css/styles.css",
 			"settings":
 			{
-				"buffer_size": 2691,
+				"buffer_size": 1252,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "CNAME",
+			"file": "js/javascript.js",
 			"settings":
 			{
-				"buffer_size": 20,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "headphones.html",
-			"settings":
-			{
-				"buffer_size": 2691,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "speakers/speaker3.html",
-			"settings":
-			{
-				"buffer_size": 2699,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "speakers/speaker2.html",
-			"settings":
-			{
-				"buffer_size": 2699,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "speakers/speaker1.html",
-			"settings":
-			{
-				"buffer_size": 2699,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/styles.css",
-			"settings":
-			{
-				"buffer_size": 1195,
-				"encoding": "UTF-8",
+				"buffer_size": 236,
 				"line_ending": "Windows"
 			}
 		}
@@ -236,20 +191,28 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/User/Documents/Test",
-		"/C/Users/User/Documents/Test/css",
-		"/C/Users/User/Documents/Test/js",
-		"/C/Users/User/Documents/Test/speakers"
+		"/C/Users/User/Documents/Test"
 	],
 	"file_history":
 	[
+		"/C/Users/User/Documents/Test/css/styles.css",
+		"/C/Users/User/Documents/Test/audioacoustics/speakers/speaker3.html",
+		"/C/Users/User/Documents/Test/audioacoustics/speakers/speaker2.html",
+		"/C/Users/User/Documents/Test/audioacoustics/speakers/speaker1.html",
+		"/C/Users/User/Documents/Test/audioacoustics/headphones.html",
+		"/C/Users/User/Documents/Test/audioacoustics/amplifiers.html",
+		"/C/Users/User/Documents/Test/audioacoustics/css/styles.css",
+		"/C/Users/User/Documents/Test/audioacoustics/js/javascript.js",
+		"/C/Users/User/Documents/Test/audioacoustics/home.html",
+		"/C/Users/User/Desktop/Dave CSV Gen backup 09-24-2018.php",
+		"/C/Users/User/Documents/Test/CNAME",
+		"/C/Users/User/Documents/Test/speakers/speaker3.html",
+		"/C/Users/User/Documents/Test/headphones.html",
+		"/C/Users/User/Downloads/permitCloudControlPanel(1).php",
 		"/C/Users/User/Documents/Test/speakers/speaker1.html",
 		"/C/Users/User/Documents/Test/speakers/speaker2.html",
-		"/C/Users/User/Documents/Test/speakers/speaker3.html",
 		"/C/Users/User/Documents/Test/amplifiers.html",
-		"/C/Users/User/Documents/Test/headphones.html",
 		"/C/Users/User/Documents/Test/js/javascript.js",
-		"/C/Users/User/Documents/Test/css/styles.css",
 		"/C/Users/User/Documents/Test/js/jquery.visible.min.js",
 		"/C/Users/User/Documents/Test/test.html",
 		"/C/Users/User/Desktop/public_html/functions/jonTrial.php",
@@ -268,7 +231,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -282,6 +245,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"id=\"navbarmainpage\"",
+			"http://",
+			"ttps://",
+			"http://",
+			"img",
+			"$permit_row",
+			"$row",
+			"remoteletter",
+			"remote",
 			"$_POST"
 		],
 		"highlight": true,
@@ -290,6 +262,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"id=\"navbar\"",
+			"https://"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -300,7 +274,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -309,87 +283,23 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7638,
+						"buffer_size": 3764,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								681,
-								546
+								3146,
+								3146
 							]
 						],
 						"settings":
 						{
-							"SL.13.region_keys":
-							[
-							],
-							"SL.37.region_keys":
+							"SL.31.region_keys":
 							[
 							],
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "amplifiers.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2691,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								677,
-								677
-							]
-						],
-						"settings":
-						{
-							"SL.61.region_keys":
-							[
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "CNAME",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 20,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								20,
-								20
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -399,167 +309,63 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "headphones.html",
+					"buffer": 1,
+					"file": "audioacoustics/css/styles.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2691,
+						"buffer_size": 1252,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								677,
-								677
+								933,
+								933
 							]
 						],
 						"settings":
 						{
-							"SL.62.region_keys":
-							[
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "speakers/speaker3.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2699,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								679,
-								679
-							]
-						],
-						"settings":
-						{
-							"SL.58.region_keys":
-							[
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "speakers/speaker2.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2699,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								679,
-								679
-							]
-						],
-						"settings":
-						{
-							"SL.59.region_keys":
-							[
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "speakers/speaker1.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2699,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								679,
-								679
-							]
-						],
-						"settings":
-						{
-							"SL.60.region_keys":
-							[
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "css/styles.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1195,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								949,
-								949
-							]
-						],
-						"settings":
-						{
-							"SL.14.region_keys":
-							[
-							],
-							"SL.17.region_keys":
+							"SL.35.region_keys":
 							[
 							],
 							"syntax": "Packages/CSS/CSS.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 810.0,
+						"translation.y": 702.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/javascript.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.34.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -611,7 +417,7 @@
 	"project": "index.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 72.0
 	},
 	"save_all_on_build": true,
 	"select_file":
